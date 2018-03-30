@@ -1,4 +1,4 @@
-AWS Certified DevpOps Engineer Professional 2018 Dumps Practice Test for passing the exam on first attempt with over 400 Questions
+AWS Certified DevOps Engineer Professional 2018 Dumps Practice Test for passing the exam on first attempt with over 400 Questions
 The AWS Certified DevOps Engineer Professional exam validates a candidate's technical expertise in managing, providing and operating distributed applications on AWS. This is a difficult exam and requires you to have at least 2 or more years of hands-on experience. But Dont worry, i will help you to pass the exam in first attempt.
 
 I have recently came across the practice questions on Udemy. I have practiced all 400 Questions and most of the questions are repeated in exam and i have passed the exam in first attempt with 92%. 
